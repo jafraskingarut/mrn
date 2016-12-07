@@ -47,7 +47,7 @@ function Cart(){
 	me.shippingRate = 0;
 	me.shippingCost = 0;
 	me.currency = IDR;
-	me.checkoutTo = PayPal;
+	me.checkoutTo = Email;
 	me.email = "";
 	me.merchantId	 = "";
 	me.successUrl = null;
